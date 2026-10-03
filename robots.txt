@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://forevermomentslive.github.io/birthday-surprise/sitemap.xml
